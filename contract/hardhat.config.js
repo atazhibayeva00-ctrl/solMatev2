@@ -6,7 +6,7 @@ module.exports = {
   networks: {
     baseSepolia: {
       url: process.env.ALCHEMY_URL_BASE_SEPOLIA,
-      accounts: [process.env.DEPLOYER_PRIVATE_KEY]
-    }
-  }
+      accounts: [process.env.DEPLOYER_PRIVATE_KEY],
+    },
+  },
 };

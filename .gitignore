@@ -1,1 +1,25 @@
-﻿# Node and build`nnode_modules/`nweb/node_modules/`ncontract/node_modules/`nweb/.next/`nweb/next-env.d.ts`nweb/tsconfig.tsbuildinfo`n`n# Hardhat artifacts/cache`ncontract/artifacts/`ncontract/cache/`n`n# OS / editor /logs`n*.log`n.vscode/`n`n# Lockfiles / local env`npackage-lock.json`nweb/package-lock.json`ncontract/package-lock.json`n`n# Local env files (do NOT commit secret values)`n.env`n.env.local
+﻿# Node and build
+node_modules/
+web/node_modules/
+contract/node_modules/
+web/.next/
+web/next-env.d.ts
+web/tsconfig.tsbuildinfo
+
+# Hardhat artifacts/cache
+contract/artifacts/
+contract/cache/
+
+# OS / editor / logs
+*.log
+.vscode/
+
+# Lockfiles / local env
+package-lock.json
+web/package-lock.json
+contract/package-lock.json
+
+# Local env files (do NOT commit secret values)
+.env
+.env.local
+# Node and build`nnode_modules/`nweb/node_modules/`ncontract/node_modules/`nweb/.next/`nweb/next-env.d.ts`nweb/tsconfig.tsbuildinfo`n`n# Hardhat artifacts/cache`ncontract/artifacts/`ncontract/cache/`n`n# OS / editor /logs`n*.log`n.vscode/`n`n# Lockfiles / local env`npackage-lock.json`nweb/package-lock.json`ncontract/package-lock.json`n`n# Local env files (do NOT commit secret values)`n.env`n.env.local
